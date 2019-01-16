@@ -1,2 +1,3 @@
-# -vue-a11y-icon
-System SVG Icons using Vue.js
+# Vue Icons System
+
+> System SVG Icons using Vue.js
